@@ -1,0 +1,10 @@
+.logo {
+    height: 30rem;
+    pointer-events: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    z-index: -1;
+}

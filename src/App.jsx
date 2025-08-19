@@ -4,7 +4,7 @@ import './App.css'
 function App() {
   return (
     <>
-      <h2>Katy Independent School District</h2>
+      <h2>Small scale gift store</h2>
       <Home />
     </>
   )
